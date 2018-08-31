@@ -1,0 +1,24 @@
+14:41:02 [App     ] Build date: Apr  9 2018, 19:28:32
+14:41:02 [App     ] CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+14:41:02 [App     ] RAM: 31.21GB Physical Memory 7.63GB Virtual Memory
+14:41:02 [App     ] OS: Linux 4.4.0-122-generic (x86_64)
+14:41:02 [App     ] SSE & AVX compatible CPU & OS detected
+14:41:02 [App     ] Command line: -i scene_dense.mvs -o scene_dense_mesh -w /home/hpc/StructureFromMotion/OpenMVG_OpenMVS/Comparing/image/carpet/vertical/left/../output/OpenMVS
+14:41:03 [App     ] Scene loaded (1s26ms):
+	42 images (42 calibrated) with a total of 20.76 MPixels (0.49 MPixels/image)
+	1249802 points, 0 vertices, 0 faces
+14:41:11 [App     ] Delaunay tetrahedralization completed: 1249802 points -> 579710 vertices, 3781208 (+178) cells, 7562505 (+267) faces (7s721ms)
+14:41:50 [App     ] Delaunay tetrahedras weighting completed: 3781386 cells, 7562772 faces (39s127ms)
+14:42:00 [App     ] Delaunay tetrahedras graph-cut completed (1.94087e+06 flow): 287517 vertices, 577050 faces (10s674ms)
+14:42:07 [App     ] Mesh reconstruction completed: 288901 vertices, 572756 faces (1m4s57ms)
+14:42:09 [App     ] Cleaned mesh: 283714 vertices, 567358 faces (2s241ms)
+14:42:11 [App     ] Cleaned mesh: 283714 vertices, 567356 faces (1s784ms)
+14:42:11 [App     ] Cleaned mesh: 283714 vertices, 567356 faces (741ms)
+14:42:12 [App     ] Scene saved (312ms):
+	42 images (42 calibrated)
+	0 points, 283714 vertices, 567356 faces
+14:42:12 [App     ] Mesh saved: 283714 vertices, 567356 faces (69ms)
+14:42:12 [App     ] MEMORYINFO: {
+14:42:12 [App     ] 	VmPeak:	 1837400 kB
+14:42:12 [App     ] 	VmSize:	  644892 kB
+14:42:12 [App     ] } ENDINFO

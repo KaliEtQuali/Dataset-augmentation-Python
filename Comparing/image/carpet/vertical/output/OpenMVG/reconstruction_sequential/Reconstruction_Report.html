@@ -1,0 +1,158 @@
+<html><head>
+<link rel="stylesheet" type="text/css" href="http://jsxgraph.uni-bayreuth.de/distrib/jsxgraph.css" />
+<link rel="stylesheet" type="text/css" href="http://imagine.enpc.fr/~moulonp/style.css" /><script type="text/javascript" src="http://cdnjs.cloudflare.com/ajax/libs/jsxgraph/0.93/jsxgraphcore.js"></script>
+<title>SequentialReconstructionEngine SFM report.</title>
+</head>
+<h1>SequentialSfMReconstructionEngine</h1>
+<hr>Dataset info:Views count: 42<br><h1>Essential Matrix.</h1>
+
+-------------------------------<br>-- Robust Essential matrix: <27,34> images: ToolBlack34.jpg,ToolBlack40.jpg<br>-- Threshold: 27.0537<br>-- Resection status: OK<br>-- Nb points used for robust Essential matrix estimation: 50<br>-- Nb points validated by robust estimation: 37<br>-- % points validated: 0.74<br>-------------------------------<br><h2>Residual of the robust estimation (Initial triangulation). Thresholded at: 27.0537</h2>
+<h2>Histogram of residuals</h2>
+
+<div id="InitialPairTriangulationKeptInfo" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('InitialPairTriangulationKeptInfo', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00019,1.24860,2.49701,3.74542,4.99383,6.24224,7.49065,8.73906,9.98747,11.23589,];
+var data1= [74.00000,24.00000,12.00000,19.00000,11.00000,0.00000,0.00000,1.00000,3.00000,3.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1]});
+var p2 = board.create('point',[27.05369,0.00000], {fixed:true});
+var p3 = board.create('point',[27.05369,74.00000], {fixed:true});
+var li = board.create('line',[p2,p3], {strokeColor:'00ff00',strokeWidth:2});
+board.unsuspendUpdate();
+board.setBoundingBox([-2.24695,88.80000,13.48303,-14.80000]);
+</script>
+<hr><h1>Resection of Image index: <28> image: ToolBlack35.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <28> image: ToolBlack35.jpg<br>-- Threshold: 2.26318<br>-- Resection status: OK<br>-- Nb points used for Resection: 36<br>-- Nb points validated by robust estimation: 31<br>-- % points validated: 0.861111<br>-------------------------------<br><h1>Resection of Image index: <26> image: ToolBlack33.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <26> image: ToolBlack33.jpg<br>-- Threshold: 3.58094<br>-- Resection status: OK<br>-- Nb points used for Resection: 70<br>-- Nb points validated by robust estimation: 63<br>-- % points validated: 0.9<br>-------------------------------<br><h1>Resection of Image index: <32> image: ToolBlack39.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <32> image: ToolBlack39.jpg<br>-- Threshold: 9.36316<br>-- Resection status: OK<br>-- Nb points used for Resection: 52<br>-- Nb points validated by robust estimation: 50<br>-- % points validated: 0.961538<br>-------------------------------<br><h1>Resection of Image index: <30> image: ToolBlack37.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <30> image: ToolBlack37.jpg<br>-- Threshold: 6.74419<br>-- Resection status: OK<br>-- Nb points used for Resection: 78<br>-- Nb points validated by robust estimation: 72<br>-- % points validated: 0.923077<br>-------------------------------<br><h1>Resection of Image index: <31> image: ToolBlack38.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <31> image: ToolBlack38.jpg<br>-- Threshold: 11.5648<br>-- Resection status: OK<br>-- Nb points used for Resection: 94<br>-- Nb points validated by robust estimation: 93<br>-- % points validated: 0.989362<br>-------------------------------<br><h1>Resection of Image index: <29> image: ToolBlack36.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <29> image: ToolBlack36.jpg<br>-- Threshold: 9.6366<br>-- Resection status: OK<br>-- Nb points used for Resection: 109<br>-- Nb points validated by robust estimation: 106<br>-- % points validated: 0.972477<br>-------------------------------<br><h1>Resection of Image index: <25> image: ToolBlack32.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <25> image: ToolBlack32.jpg<br>-- Threshold: 7.37369<br>-- Resection status: OK<br>-- Nb points used for Resection: 57<br>-- Nb points validated by robust estimation: 53<br>-- % points validated: 0.929825<br>-------------------------------<br><h1>Resection of Image index: <36> image: ToolBlack42.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <36> image: ToolBlack42.jpg<br>-- Threshold: 11.5299<br>-- Resection status: OK<br>-- Nb points used for Resection: 60<br>-- Nb points validated by robust estimation: 55<br>-- % points validated: 0.916667<br>-------------------------------<br><h1>Resection of Image index: <35> image: ToolBlack41.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <35> image: ToolBlack41.jpg<br>-- Threshold: 10.489<br>-- Resection status: OK<br>-- Nb points used for Resection: 92<br>-- Nb points validated by robust estimation: 83<br>-- % points validated: 0.902174<br>-------------------------------<br><h1>Resection of Image index: <24> image: ToolBlack31.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <24> image: ToolBlack31.jpg<br>-- Threshold: 11.3089<br>-- Resection status: OK<br>-- Nb points used for Resection: 93<br>-- Nb points validated by robust estimation: 89<br>-- % points validated: 0.956989<br>-------------------------------<br><h1>Resection of Image index: <23> image: ToolBlack30.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <23> image: ToolBlack30.jpg<br>-- Threshold: 7.01267<br>-- Resection status: OK<br>-- Nb points used for Resection: 65<br>-- Nb points validated by robust estimation: 60<br>-- % points validated: 0.923077<br>-------------------------------<br><h1>Resection of Image index: <21> image: ToolBlack29.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <21> image: ToolBlack29.jpg<br>-- Threshold: 9.39961<br>-- Resection status: OK<br>-- Nb points used for Resection: 106<br>-- Nb points validated by robust estimation: 103<br>-- % points validated: 0.971698<br>-------------------------------<br><h1>Resection of Image index: <20> image: ToolBlack28.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <20> image: ToolBlack28.jpg<br>-- Threshold: 13.1824<br>-- Resection status: OK<br>-- Nb points used for Resection: 118<br>-- Nb points validated by robust estimation: 113<br>-- % points validated: 0.957627<br>-------------------------------<br><h1>Resection of Image index: <0> image: ToolBlack1.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <0> image: ToolBlack1.jpg<br>-- Threshold: 13.3336<br>-- Resection status: OK<br>-- Nb points used for Resection: 94<br>-- Nb points validated by robust estimation: 92<br>-- % points validated: 0.978723<br>-------------------------------<br><h1>Resection of Image index: <11> image: ToolBlack2.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <11> image: ToolBlack2.jpg<br>-- Threshold: 13.859<br>-- Resection status: OK<br>-- Nb points used for Resection: 76<br>-- Nb points validated by robust estimation: 72<br>-- % points validated: 0.947368<br>-------------------------------<br><h1>Resection of Image index: <19> image: ToolBlack27.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <19> image: ToolBlack27.jpg<br>-- Threshold: 26.251<br>-- Resection status: OK<br>-- Nb points used for Resection: 137<br>-- Nb points validated by robust estimation: 132<br>-- % points validated: 0.963504<br>-------------------------------<br><h1>Resection of Image index: <22> image: ToolBlack3.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <22> image: ToolBlack3.jpg<br>-- Threshold: 12.1236<br>-- Resection status: OK<br>-- Nb points used for Resection: 206<br>-- Nb points validated by robust estimation: 198<br>-- % points validated: 0.961165<br>-------------------------------<br><h1>Resection of Image index: <18> image: ToolBlack26.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <18> image: ToolBlack26.jpg<br>-- Threshold: 15.7923<br>-- Resection status: OK<br>-- Nb points used for Resection: 191<br>-- Nb points validated by robust estimation: 188<br>-- % points validated: 0.984293<br>-------------------------------<br><h1>Resection of Image index: <33> image: ToolBlack4.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <33> image: ToolBlack4.jpg<br>-- Threshold: 11.4021<br>-- Resection status: OK<br>-- Nb points used for Resection: 169<br>-- Nb points validated by robust estimation: 161<br>-- % points validated: 0.952663<br>-------------------------------<br><h1>Resection of Image index: <37> image: ToolBlack5.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <37> image: ToolBlack5.jpg<br>-- Threshold: 11.6415<br>-- Resection status: OK<br>-- Nb points used for Resection: 195<br>-- Nb points validated by robust estimation: 178<br>-- % points validated: 0.912821<br>-------------------------------<br><h1>Resection of Image index: <17> image: ToolBlack25.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <17> image: ToolBlack25.jpg<br>-- Threshold: 25.0426<br>-- Resection status: OK<br>-- Nb points used for Resection: 195<br>-- Nb points validated by robust estimation: 189<br>-- % points validated: 0.969231<br>-------------------------------<br><h1>Resection of Image index: <16> image: ToolBlack24.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <16> image: ToolBlack24.jpg<br>-- Threshold: 9.79344<br>-- Resection status: OK<br>-- Nb points used for Resection: 192<br>-- Nb points validated by robust estimation: 183<br>-- % points validated: 0.953125<br>-------------------------------<br><h1>Resection of Image index: <15> image: ToolBlack23.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <15> image: ToolBlack23.jpg<br>-- Threshold: 9.25989<br>-- Resection status: OK<br>-- Nb points used for Resection: 238<br>-- Nb points validated by robust estimation: 216<br>-- % points validated: 0.907563<br>-------------------------------<br><h1>Resection of Image index: <38> image: ToolBlack6.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <38> image: ToolBlack6.jpg<br>-- Threshold: 8.27019<br>-- Resection status: OK<br>-- Nb points used for Resection: 252<br>-- Nb points validated by robust estimation: 238<br>-- % points validated: 0.944444<br>-------------------------------<br><h1>Resection of Image index: <39> image: ToolBlack7.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <39> image: ToolBlack7.jpg<br>-- Threshold: 8.59981<br>-- Resection status: OK<br>-- Nb points used for Resection: 223<br>-- Nb points validated by robust estimation: 205<br>-- % points validated: 0.919282<br>-------------------------------<br><h1>Resection of Image index: <13> image: ToolBlack21.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <13> image: ToolBlack21.jpg<br>-- Threshold: 14.389<br>-- Resection status: OK<br>-- Nb points used for Resection: 236<br>-- Nb points validated by robust estimation: 225<br>-- % points validated: 0.95339<br>-------------------------------<br><h1>Resection of Image index: <14> image: ToolBlack22.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <14> image: ToolBlack22.jpg<br>-- Threshold: 19.4357<br>-- Resection status: OK<br>-- Nb points used for Resection: 255<br>-- Nb points validated by robust estimation: 237<br>-- % points validated: 0.929412<br>-------------------------------<br><h1>Resection of Image index: <40> image: ToolBlack8.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <40> image: ToolBlack8.jpg<br>-- Threshold: 13.879<br>-- Resection status: OK<br>-- Nb points used for Resection: 281<br>-- Nb points validated by robust estimation: 260<br>-- % points validated: 0.925267<br>-------------------------------<br><h1>Resection of Image index: <12> image: ToolBlack20.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <12> image: ToolBlack20.jpg<br>-- Threshold: 13.0781<br>-- Resection status: OK<br>-- Nb points used for Resection: 284<br>-- Nb points validated by robust estimation: 268<br>-- % points validated: 0.943662<br>-------------------------------<br><h1>Resection of Image index: <41> image: ToolBlack9.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <41> image: ToolBlack9.jpg<br>-- Threshold: 8.57941<br>-- Resection status: OK<br>-- Nb points used for Resection: 236<br>-- Nb points validated by robust estimation: 216<br>-- % points validated: 0.915254<br>-------------------------------<br><h1>Resection of Image index: <10> image: ToolBlack19.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <10> image: ToolBlack19.jpg<br>-- Threshold: 12.4284<br>-- Resection status: OK<br>-- Nb points used for Resection: 233<br>-- Nb points validated by robust estimation: 219<br>-- % points validated: 0.939914<br>-------------------------------<br><h1>Resection of Image index: <1> image: ToolBlack10.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <1> image: ToolBlack10.jpg<br>-- Threshold: 16.7188<br>-- Resection status: OK<br>-- Nb points used for Resection: 208<br>-- Nb points validated by robust estimation: 188<br>-- % points validated: 0.903846<br>-------------------------------<br><h1>Resection of Image index: <8> image: ToolBlack17.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <8> image: ToolBlack17.jpg<br>-- Threshold: 18.6335<br>-- Resection status: OK<br>-- Nb points used for Resection: 201<br>-- Nb points validated by robust estimation: 178<br>-- % points validated: 0.885572<br>-------------------------------<br><h1>Resection of Image index: <9> image: ToolBlack18.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <9> image: ToolBlack18.jpg<br>-- Threshold: 20.0423<br>-- Resection status: OK<br>-- Nb points used for Resection: 205<br>-- Nb points validated by robust estimation: 193<br>-- % points validated: 0.941463<br>-------------------------------<br><h1>Resection of Image index: <2> image: ToolBlack11.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <2> image: ToolBlack11.jpg<br>-- Threshold: 10.053<br>-- Resection status: OK<br>-- Nb points used for Resection: 239<br>-- Nb points validated by robust estimation: 213<br>-- % points validated: 0.891213<br>-------------------------------<br><h1>Resection of Image index: <7> image: ToolBlack16.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <7> image: ToolBlack16.jpg<br>-- Threshold: 8.52758<br>-- Resection status: OK<br>-- Nb points used for Resection: 116<br>-- Nb points validated by robust estimation: 104<br>-- % points validated: 0.896552<br>-------------------------------<br><h1>Resection of Image index: <6> image: ToolBlack15.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <6> image: ToolBlack15.jpg<br>-- Threshold: 12.7856<br>-- Resection status: OK<br>-- Nb points used for Resection: 132<br>-- Nb points validated by robust estimation: 121<br>-- % points validated: 0.916667<br>-------------------------------<br><h1>Resection of Image index: <5> image: ToolBlack14.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <5> image: ToolBlack14.jpg<br>-- Threshold: 8.39906<br>-- Resection status: OK<br>-- Nb points used for Resection: 153<br>-- Nb points validated by robust estimation: 136<br>-- % points validated: 0.888889<br>-------------------------------<br><h1>Resection of Image index: <4> image: ToolBlack13.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <4> image: ToolBlack13.jpg<br>-- Threshold: 10.7636<br>-- Resection status: OK<br>-- Nb points used for Resection: 122<br>-- Nb points validated by robust estimation: 114<br>-- % points validated: 0.934426<br>-------------------------------<br><h1>Resection of Image index: <3> image: ToolBlack12.jpg<br> 
+</h1>
+
+-------------------------------<br>-- Robust Resection of camera index: <3> image: ToolBlack12.jpg<br>-- Threshold: 37.2658<br>-- Resection status: OK<br>-- Nb points used for Resection: 123<br>-- Nb points validated by robust estimation: 117<br>-- % points validated: 0.951219<br>-------------------------------<br><hr><h1>Structure from Motion process finished.</h1>
+-------------------------------<br>-- Structure from Motion (statistics):<br>-- #Camera calibrated: 42 from 42 input images.<br>-- #Tracks, #3D points: 2320<br>-------------------------------<br><h2>Histogram of reprojection-residuals</h2>
+
+<div id="3DtoImageResiduals" class="jxgbox" style="width:600px; height:300px;"></div>
+<script type="text/javascript">
+var board = JXG.JSXGraph.initBoard('3DtoImageResiduals', {boundingbox: [-10, 10, 10, -10], axis:true,showCopyright:false});
+board.suspendUpdate();
+var data0= [0.00000,0.43432,0.86864,1.30296,1.73728,2.17159,2.60591,3.04023,3.47455,3.90887,];
+var data1= [9043.00000,5454.00000,3351.00000,1917.00000,1231.00000,690.00000,390.00000,236.00000,114.00000,53.00000,];
+board.createElement('chart', [ data0,data1], {chartStyle:'line,point',labels:[ data0,data1]});
+board.unsuspendUpdate();
+board.setBoundingBox([-0.78177,10841.00000,4.69064,-1745.00000]);
+</script>
+</html>

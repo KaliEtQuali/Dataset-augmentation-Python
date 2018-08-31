@@ -1,0 +1,20 @@
+12:51:56 [App     ] Build date: Apr  9 2018, 19:28:32
+12:51:56 [App     ] CPU: Intel(R) Core(TM) i7-6700K CPU @ 4.00GHz
+12:51:56 [App     ] RAM: 31.21GB Physical Memory 7.63GB Virtual Memory
+12:51:56 [App     ] OS: Linux 4.4.0-122-generic (x86_64)
+12:51:56 [App     ] SSE & AVX compatible CPU & OS detected
+12:51:56 [App     ] Command line: -i scene_dense_mesh_refined.mvs -o scene_dense_mesh_refined_textured -w /home/hpc/StructureFromMotion/OpenMVG_OpenMVS/Comparing/image/carpet/vertical/left/../output/OpenMVS
+12:51:56 [App     ] Scene loaded (70ms):
+	42 images (42 calibrated) with a total of 83.06 MPixels (1.98 MPixels/image)
+	0 points, 104058 vertices, 207494 faces
+12:53:25 [App     ] Assigning the best view to each face completed: 207494 faces (1m28s897ms)
+12:53:42 [App     ] Generating texture atlas and image completed: 6541 patches, 4096 image size (16s777ms)
+12:53:42 [App     ] Mesh texturing completed: 104058 vertices, 207494 faces (1m45s689ms)
+12:53:45 [App     ] Scene saved (2s654ms):
+	42 images (42 calibrated)
+	0 points, 104058 vertices, 207494 faces
+12:53:46 [App     ] Mesh saved: 104058 vertices, 207494 faces (925ms)
+12:53:46 [App     ] MEMORYINFO: {
+12:53:46 [App     ] 	VmPeak:	 1214100 kB
+12:53:46 [App     ] 	VmSize:	 1019944 kB
+12:53:46 [App     ] } ENDINFO

@@ -1,0 +1,1901 @@
+{
+    "sfm_data_version": "0.3",
+    "root_path": "/home/hpc/StructureFromMotion/OpenMVG_OpenMVS/Comparing/image/carpet/vertical/left",
+    "views": [
+        {
+            "key": 0,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483649,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack1.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 0,
+                        "id_intrinsic": 0,
+                        "id_pose": 0
+                    }
+                }
+            }
+        },
+        {
+            "key": 1,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483650,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack10.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 1,
+                        "id_intrinsic": 0,
+                        "id_pose": 1
+                    }
+                }
+            }
+        },
+        {
+            "key": 2,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483651,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack11.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 2,
+                        "id_intrinsic": 0,
+                        "id_pose": 2
+                    }
+                }
+            }
+        },
+        {
+            "key": 3,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483652,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack12.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 3,
+                        "id_intrinsic": 0,
+                        "id_pose": 3
+                    }
+                }
+            }
+        },
+        {
+            "key": 4,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483653,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack13.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 4,
+                        "id_intrinsic": 0,
+                        "id_pose": 4
+                    }
+                }
+            }
+        },
+        {
+            "key": 5,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483654,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack14.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 5,
+                        "id_intrinsic": 0,
+                        "id_pose": 5
+                    }
+                }
+            }
+        },
+        {
+            "key": 6,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483655,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack15.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 6,
+                        "id_intrinsic": 0,
+                        "id_pose": 6
+                    }
+                }
+            }
+        },
+        {
+            "key": 7,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483656,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack16.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 7,
+                        "id_intrinsic": 0,
+                        "id_pose": 7
+                    }
+                }
+            }
+        },
+        {
+            "key": 8,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483657,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack17.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 8,
+                        "id_intrinsic": 0,
+                        "id_pose": 8
+                    }
+                }
+            }
+        },
+        {
+            "key": 9,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483658,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack18.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 9,
+                        "id_intrinsic": 0,
+                        "id_pose": 9
+                    }
+                }
+            }
+        },
+        {
+            "key": 10,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483659,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack19.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 10,
+                        "id_intrinsic": 0,
+                        "id_pose": 10
+                    }
+                }
+            }
+        },
+        {
+            "key": 11,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483660,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack2.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 11,
+                        "id_intrinsic": 0,
+                        "id_pose": 11
+                    }
+                }
+            }
+        },
+        {
+            "key": 12,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483661,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack20.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 12,
+                        "id_intrinsic": 0,
+                        "id_pose": 12
+                    }
+                }
+            }
+        },
+        {
+            "key": 13,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483662,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack21.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 13,
+                        "id_intrinsic": 0,
+                        "id_pose": 13
+                    }
+                }
+            }
+        },
+        {
+            "key": 14,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483663,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack22.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 14,
+                        "id_intrinsic": 0,
+                        "id_pose": 14
+                    }
+                }
+            }
+        },
+        {
+            "key": 15,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483664,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack23.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 15,
+                        "id_intrinsic": 0,
+                        "id_pose": 15
+                    }
+                }
+            }
+        },
+        {
+            "key": 16,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483665,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack24.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 16,
+                        "id_intrinsic": 0,
+                        "id_pose": 16
+                    }
+                }
+            }
+        },
+        {
+            "key": 17,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483666,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack25.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 17,
+                        "id_intrinsic": 0,
+                        "id_pose": 17
+                    }
+                }
+            }
+        },
+        {
+            "key": 18,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483667,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack26.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 18,
+                        "id_intrinsic": 0,
+                        "id_pose": 18
+                    }
+                }
+            }
+        },
+        {
+            "key": 19,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483668,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack27.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 19,
+                        "id_intrinsic": 0,
+                        "id_pose": 19
+                    }
+                }
+            }
+        },
+        {
+            "key": 20,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483669,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack28.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 20,
+                        "id_intrinsic": 0,
+                        "id_pose": 20
+                    }
+                }
+            }
+        },
+        {
+            "key": 21,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483670,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack29.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 21,
+                        "id_intrinsic": 0,
+                        "id_pose": 21
+                    }
+                }
+            }
+        },
+        {
+            "key": 22,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483671,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack3.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 22,
+                        "id_intrinsic": 0,
+                        "id_pose": 22
+                    }
+                }
+            }
+        },
+        {
+            "key": 23,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483672,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack30.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 23,
+                        "id_intrinsic": 0,
+                        "id_pose": 23
+                    }
+                }
+            }
+        },
+        {
+            "key": 24,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483673,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack31.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 24,
+                        "id_intrinsic": 0,
+                        "id_pose": 24
+                    }
+                }
+            }
+        },
+        {
+            "key": 25,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483674,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack32.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 25,
+                        "id_intrinsic": 0,
+                        "id_pose": 25
+                    }
+                }
+            }
+        },
+        {
+            "key": 26,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483675,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack33.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 26,
+                        "id_intrinsic": 0,
+                        "id_pose": 26
+                    }
+                }
+            }
+        },
+        {
+            "key": 27,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483676,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack34.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 27,
+                        "id_intrinsic": 0,
+                        "id_pose": 27
+                    }
+                }
+            }
+        },
+        {
+            "key": 28,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483677,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack35.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 28,
+                        "id_intrinsic": 0,
+                        "id_pose": 28
+                    }
+                }
+            }
+        },
+        {
+            "key": 29,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483678,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack36.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 29,
+                        "id_intrinsic": 0,
+                        "id_pose": 29
+                    }
+                }
+            }
+        },
+        {
+            "key": 30,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483679,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack37.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 30,
+                        "id_intrinsic": 0,
+                        "id_pose": 30
+                    }
+                }
+            }
+        },
+        {
+            "key": 31,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483680,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack38.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 31,
+                        "id_intrinsic": 0,
+                        "id_pose": 31
+                    }
+                }
+            }
+        },
+        {
+            "key": 32,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483681,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack39.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 32,
+                        "id_intrinsic": 0,
+                        "id_pose": 32
+                    }
+                }
+            }
+        },
+        {
+            "key": 33,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483682,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack4.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 33,
+                        "id_intrinsic": 0,
+                        "id_pose": 33
+                    }
+                }
+            }
+        },
+        {
+            "key": 34,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483683,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack40.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 34,
+                        "id_intrinsic": 0,
+                        "id_pose": 34
+                    }
+                }
+            }
+        },
+        {
+            "key": 35,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483684,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack41.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 35,
+                        "id_intrinsic": 0,
+                        "id_pose": 35
+                    }
+                }
+            }
+        },
+        {
+            "key": 36,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483685,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack42.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 36,
+                        "id_intrinsic": 0,
+                        "id_pose": 36
+                    }
+                }
+            }
+        },
+        {
+            "key": 37,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483686,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack5.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 37,
+                        "id_intrinsic": 0,
+                        "id_pose": 37
+                    }
+                }
+            }
+        },
+        {
+            "key": 38,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483687,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack6.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 38,
+                        "id_intrinsic": 0,
+                        "id_pose": 38
+                    }
+                }
+            }
+        },
+        {
+            "key": 39,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483688,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack7.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 39,
+                        "id_intrinsic": 0,
+                        "id_pose": 39
+                    }
+                }
+            }
+        },
+        {
+            "key": 40,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483689,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack8.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 40,
+                        "id_intrinsic": 0,
+                        "id_pose": 40
+                    }
+                }
+            }
+        },
+        {
+            "key": 41,
+            "value": {
+                "polymorphic_id": 1073741824,
+                "ptr_wrapper": {
+                    "id": 2147483690,
+                    "data": {
+                        "local_path": "",
+                        "filename": "ToolBlack9.jpg",
+                        "width": 1920,
+                        "height": 1080,
+                        "id_view": 41,
+                        "id_intrinsic": 0,
+                        "id_pose": 41
+                    }
+                }
+            }
+        }
+    ],
+    "intrinsics": [],
+    "extrinsics": [
+        {
+            "key": 0,
+            "value": {
+                "rotation": [
+                    [
+                        0.8066073401915598,
+                        0.38354541005754247,
+                        -0.4497527289221143
+                    ],
+                    [
+                        -0.4441284001101367,
+                        0.895356400391504,
+                        -0.032967870625490777
+                    ],
+                    [
+                        0.3900443089761823,
+                        0.22634008637835324,
+                        0.892544453981723
+                    ]
+                ],
+                "center": [
+                    -0.6404144920471945,
+                    -0.24467357329114329,
+                    1.1387703864551957
+                ]
+            }
+        },
+        {
+            "key": 1,
+            "value": {
+                "rotation": [
+                    [
+                        0.30965536579966027,
+                        0.4633227969158221,
+                        -0.8303285736921129
+                    ],
+                    [
+                        -0.8164352404008602,
+                        0.5771691557800125,
+                        0.017585899117680785
+                    ],
+                    [
+                        0.487387989863382,
+                        0.6724639406498222,
+                        0.556996585144509
+                    ]
+                ],
+                "center": [
+                    -1.150463855970511,
+                    -0.803283916819615,
+                    1.7580770429631255
+                ]
+            }
+        },
+        {
+            "key": 2,
+            "value": {
+                "rotation": [
+                    [
+                        0.19727286289258878,
+                        0.4650309825524282,
+                        -0.8630351110079385
+                    ],
+                    [
+                        -0.8453207066927853,
+                        0.526539618008431,
+                        0.09049272624882859
+                    ],
+                    [
+                        0.4965040990793246,
+                        0.7116896907598553,
+                        0.4969722966761522
+                    ]
+                ],
+                "center": [
+                    -1.1527974616860695,
+                    -0.8933636989170947,
+                    1.8452498897831893
+                ]
+            }
+        },
+        {
+            "key": 3,
+            "value": {
+                "rotation": [
+                    [
+                        0.03103767983413165,
+                        0.3679534553621849,
+                        -0.9293260553312506
+                    ],
+                    [
+                        -0.8983044127944484,
+                        0.417962952447151,
+                        0.13548487862371265
+                    ],
+                    [
+                        0.43827599111123508,
+                        0.8306125601438311,
+                        0.34350681295539889
+                    ]
+                ],
+                "center": [
+                    -1.0853356230583784,
+                    -1.0668733237594737,
+                    2.1399284958357858
+                ]
+            }
+        },
+        {
+            "key": 4,
+            "value": {
+                "rotation": [
+                    [
+                        -0.012679343532742046,
+                        0.39044622774243467,
+                        -0.9205384171718645
+                    ],
+                    [
+                        -0.8957554073313891,
+                        0.4046868604801761,
+                        0.1839858559544062
+                    ],
+                    [
+                        0.4443663854120333,
+                        0.8269100847107872,
+                        0.3446131560452139
+                    ]
+                ],
+                "center": [
+                    -1.2156148564479712,
+                    -1.0796493311765292,
+                    2.0870268034199106
+                ]
+            }
+        },
+        {
+            "key": 5,
+            "value": {
+                "rotation": [
+                    [
+                        -0.1122929775461233,
+                        0.38082358859789869,
+                        -0.9178037271449949
+                    ],
+                    [
+                        -0.8721787466089502,
+                        0.404795487558278,
+                        0.2746722541795892
+                    ],
+                    [
+                        0.47612448073740817,
+                        0.8313326696454764,
+                        0.28669054958728409
+                    ]
+                ],
+                "center": [
+                    -1.2694361339632317,
+                    -1.1513875789508082,
+                    2.0795322179131205
+                ]
+            }
+        },
+        {
+            "key": 6,
+            "value": {
+                "rotation": [
+                    [
+                        -0.053992239173057589,
+                        0.3961012034374275,
+                        -0.9166180637236543
+                    ],
+                    [
+                        -0.8697518375129871,
+                        0.4322850890994774,
+                        0.23803643184403418
+                    ],
+                    [
+                        0.49052683846234337,
+                        0.810082365181269,
+                        0.32116970960920268
+                    ]
+                ],
+                "center": [
+                    -1.2889407664057946,
+                    -1.111865608765551,
+                    2.029152103217674
+                ]
+            }
+        },
+        {
+            "key": 7,
+            "value": {
+                "rotation": [
+                    [
+                        -0.0649757824443913,
+                        0.3669353520464178,
+                        -0.9279744582230216
+                    ],
+                    [
+                        -0.8725213900350921,
+                        0.43037309864533987,
+                        0.23126915032844085
+                    ],
+                    [
+                        0.48423607014241479,
+                        0.8247044582036524,
+                        0.2921951145930581
+                    ]
+                ],
+                "center": [
+                    -1.151269787974788,
+                    -1.0443526451945016,
+                    2.033666445620686
+                ]
+            }
+        },
+        {
+            "key": 8,
+            "value": {
+                "rotation": [
+                    [
+                        0.29142933717023597,
+                        0.4554475598174699,
+                        -0.8412113062083921
+                    ],
+                    [
+                        -0.8173756858950385,
+                        0.5754063507433521,
+                        0.028364055278360758
+                    ],
+                    [
+                        0.4969566676724766,
+                        0.6793195505655132,
+                        0.5399620529957054
+                    ]
+                ],
+                "center": [
+                    -1.1248614369986208,
+                    -0.8781686770271363,
+                    1.8844960335997212
+                ]
+            }
+        },
+        {
+            "key": 9,
+            "value": {
+                "rotation": [
+                    [
+                        0.30554435997456588,
+                        0.42846149874788966,
+                        -0.8503313402306452
+                    ],
+                    [
+                        -0.7994383771498546,
+                        0.6005520530354758,
+                        0.01534642417249318
+                    ],
+                    [
+                        0.5172435840372889,
+                        0.675098493321965,
+                        0.5260238579063433
+                    ]
+                ],
+                "center": [
+                    -1.3049998586020347,
+                    -0.9095435071310162,
+                    1.7887262167756209
+                ]
+            }
+        },
+        {
+            "key": 10,
+            "value": {
+                "rotation": [
+                    [
+                        0.3822751321681858,
+                        0.449464589111888,
+                        -0.8073706128292494
+                    ],
+                    [
+                        -0.7639115132662295,
+                        0.6453163570243278,
+                        -0.0024493379002203548
+                    ],
+                    [
+                        0.5199085719865516,
+                        0.6176960275826063,
+                        0.5900395700998136
+                    ]
+                ],
+                "center": [
+                    -1.339681112344178,
+                    -0.8236609488875344,
+                    1.6421184414031179
+                ]
+            }
+        },
+        {
+            "key": 11,
+            "value": {
+                "rotation": [
+                    [
+                        0.7678876485045529,
+                        0.3823181561763178,
+                        -0.5139857845622669
+                    ],
+                    [
+                        -0.464490792230251,
+                        0.884855634269805,
+                        -0.035760459089544279
+                    ],
+                    [
+                        0.44113134462137479,
+                        0.26620167910612788,
+                        0.8570529755117918
+                    ]
+                ],
+                "center": [
+                    -0.7221187622938505,
+                    -0.2961155805964413,
+                    1.1860608541935965
+                ]
+            }
+        },
+        {
+            "key": 12,
+            "value": {
+                "rotation": [
+                    [
+                        0.44167953741529789,
+                        0.4674458772053425,
+                        -0.7657764282819994
+                    ],
+                    [
+                        -0.7267519030341926,
+                        0.6869000330058736,
+                        0.000126857042593557
+                    ],
+                    [
+                        0.5260711526635802,
+                        0.5564734463927795,
+                        0.6431068696530573
+                    ]
+                ],
+                "center": [
+                    -1.2894896172210145,
+                    -0.6626916590854576,
+                    1.4477755939820665
+                ]
+            }
+        },
+        {
+            "key": 13,
+            "value": {
+                "rotation": [
+                    [
+                        0.4518007499655578,
+                        0.4622723000797631,
+                        -0.7630074723811852
+                    ],
+                    [
+                        -0.7229938769103239,
+                        0.6907878762907375,
+                        -0.009589782057600884
+                    ],
+                    [
+                        0.5226432208311316,
+                        0.5559824012940502,
+                        0.6463185229981907
+                    ]
+                ],
+                "center": [
+                    -1.1999707585969322,
+                    -0.667593075659514,
+                    1.516492864470251
+                ]
+            }
+        },
+        {
+            "key": 14,
+            "value": {
+                "rotation": [
+                    [
+                        0.5053804466358748,
+                        0.44462451403828825,
+                        -0.7395266362169384
+                    ],
+                    [
+                        -0.7009926860574507,
+                        0.7113149258877642,
+                        -0.051384144473222977
+                    ],
+                    [
+                        0.503189684166999,
+                        0.5443713050166225,
+                        0.6711631873266107
+                    ]
+                ],
+                "center": [
+                    -1.0881334042461526,
+                    -0.6875878474591446,
+                    1.6225993083040729
+                ]
+            }
+        },
+        {
+            "key": 15,
+            "value": {
+                "rotation": [
+                    [
+                        0.6698169125204163,
+                        0.4098274947308654,
+                        -0.6191823061621183
+                    ],
+                    [
+                        -0.5902454766117998,
+                        0.7998131363347978,
+                        -0.10912939240004577
+                    ],
+                    [
+                        0.45050591676572468,
+                        0.43856626809288065,
+                        0.7776271905290847
+                    ]
+                ],
+                "center": [
+                    -0.9887541316081747,
+                    -0.5271519239674172,
+                    1.4638198292356657
+                ]
+            }
+        },
+        {
+            "key": 16,
+            "value": {
+                "rotation": [
+                    [
+                        0.6654030626763824,
+                        0.3982208540642619,
+                        -0.6313944215537702
+                    ],
+                    [
+                        -0.5845085754875253,
+                        0.8040494055062203,
+                        -0.10887735617031468
+                    ],
+                    [
+                        0.4643150755278513,
+                        0.44150278016499908,
+                        0.7677804411054909
+                    ]
+                ],
+                "center": [
+                    -1.0671897683181615,
+                    -0.5091287494845176,
+                    1.381286482690875
+                ]
+            }
+        },
+        {
+            "key": 17,
+            "value": {
+                "rotation": [
+                    [
+                        0.7694096694869144,
+                        0.3793257041872965,
+                        -0.5139268144812536
+                    ],
+                    [
+                        -0.49520450948442099,
+                        0.8624289453898856,
+                        -0.10482751518558339
+                    ],
+                    [
+                        0.403461589604675,
+                        0.3351541798881543,
+                        0.8514049691052827
+                    ]
+                ],
+                "center": [
+                    -1.0565209696437548,
+                    -0.43998907533539657,
+                    1.26775739716432
+                ]
+            }
+        },
+        {
+            "key": 18,
+            "value": {
+                "rotation": [
+                    [
+                        0.7951437561972214,
+                        0.39694531072448488,
+                        -0.4584548257728519
+                    ],
+                    [
+                        -0.48118248354667966,
+                        0.8730883534979258,
+                        -0.0786138951721025
+                    ],
+                    [
+                        0.3690661519408454,
+                        0.28310977955578139,
+                        0.8852338833390042
+                    ]
+                ],
+                "center": [
+                    -0.8795358224392377,
+                    -0.28574650751113569,
+                    1.1515370910428276
+                ]
+            }
+        },
+        {
+            "key": 19,
+            "value": {
+                "rotation": [
+                    [
+                        0.8215869555469365,
+                        0.3713164531812509,
+                        -0.4325724980532304
+                    ],
+                    [
+                        -0.4429147886216982,
+                        0.8934819585147139,
+                        -0.07427300875087353
+                    ],
+                    [
+                        0.3589169325837282,
+                        0.2526144916777477,
+                        0.8985346705047506
+                    ]
+                ],
+                "center": [
+                    -0.8381664465924524,
+                    -0.3788138112534943,
+                    1.2633486380284949
+                ]
+            }
+        },
+        {
+            "key": 20,
+            "value": {
+                "rotation": [
+                    [
+                        0.9296471633226974,
+                        0.28099832708138758,
+                        -0.2383193066109491
+                    ],
+                    [
+                        -0.31251481399260008,
+                        0.943974795200954,
+                        -0.10604752265134546
+                    ],
+                    [
+                        0.1951682421943504,
+                        0.173065092386589,
+                        0.9653796305267627
+                    ]
+                ],
+                "center": [
+                    -0.630757245243688,
+                    -0.2637074688443264,
+                    1.2478475101068292
+                ]
+            }
+        },
+        {
+            "key": 21,
+            "value": {
+                "rotation": [
+                    [
+                        0.9447476156815033,
+                        0.2501105620129195,
+                        -0.21188829470665899
+                    ],
+                    [
+                        -0.2774245647665715,
+                        0.95438177236586,
+                        -0.11041305828514264
+                    ],
+                    [
+                        0.1746068541844586,
+                        0.16309549149311729,
+                        0.9710367177024902
+                    ]
+                ],
+                "center": [
+                    -0.6368972523197047,
+                    -0.23084591126128504,
+                    1.1892946480048437
+                ]
+            }
+        },
+        {
+            "key": 22,
+            "value": {
+                "rotation": [
+                    [
+                        0.7252745137150097,
+                        0.387290614681425,
+                        -0.5691949222675304
+                    ],
+                    [
+                        -0.49880528443437918,
+                        0.8654543595039289,
+                        -0.04671230925550823
+                    ],
+                    [
+                        0.47452098791917959,
+                        0.31779668248005379,
+                        0.820874594946681
+                    ]
+                ],
+                "center": [
+                    -0.8143608841633346,
+                    -0.3432897208843979,
+                    1.217773614680406
+                ]
+            }
+        },
+        {
+            "key": 23,
+            "value": {
+                "rotation": [
+                    [
+                        0.9621835227419715,
+                        0.23152299447733636,
+                        -0.14352690198042074
+                    ],
+                    [
+                        -0.2467438250524288,
+                        0.9639994233902468,
+                        -0.0991090132216441
+                    ],
+                    [
+                        0.1154138352293451,
+                        0.13077543626965619,
+                        0.9846712303637873
+                    ]
+                ],
+                "center": [
+                    -0.6483562813477068,
+                    -0.2466909833189672,
+                    1.2110642062011226
+                ]
+            }
+        },
+        {
+            "key": 24,
+            "value": {
+                "rotation": [
+                    [
+                        0.9883433266731282,
+                        0.14393851665385064,
+                        -0.049590039767915327
+                    ],
+                    [
+                        -0.14709111170345455,
+                        0.9868373284980258,
+                        -0.06720336257004966
+                    ],
+                    [
+                        0.03926415004219655,
+                        0.07371424900498447,
+                        0.9965061645645225
+                    ]
+                ],
+                "center": [
+                    -0.3912971857117552,
+                    -0.10523630349681357,
+                    1.1524602294745253
+                ]
+            }
+        },
+        {
+            "key": 25,
+            "value": {
+                "rotation": [
+                    [
+                        0.9906435321548299,
+                        0.12679522574243613,
+                        -0.05048131266842484
+                    ],
+                    [
+                        -0.12908922547006938,
+                        0.9906063786690949,
+                        -0.045110690613639977
+                    ],
+                    [
+                        0.04428729013317696,
+                        0.05120520744051939,
+                        0.9977056994242507
+                    ]
+                ],
+                "center": [
+                    -0.3316437577523484,
+                    -0.14899449430508877,
+                    1.2289894385491183
+                ]
+            }
+        },
+        {
+            "key": 26,
+            "value": {
+                "rotation": [
+                    [
+                        0.9966894241694732,
+                        0.033444659407219797,
+                        0.07410564422403435
+                    ],
+                    [
+                        -0.0314207128212628,
+                        0.9991051989437565,
+                        -0.02831148617364361
+                    ],
+                    [
+                        -0.07498620242769881,
+                        0.02588930668619278,
+                        0.9968484404586188
+                    ]
+                ],
+                "center": [
+                    -0.146999849021842,
+                    -0.09974374933727771,
+                    1.2682828669707838
+                ]
+            }
+        },
+        {
+            "key": 27,
+            "value": {
+                "rotation": [
+                    [
+                        0.9977666419349621,
+                        0.06672145158329129,
+                        0.0031585028807556119
+                    ],
+                    [
+                        -0.06650578653702738,
+                        0.9967221604609758,
+                        -0.04606425081444622
+                    ],
+                    [
+                        -0.006221623495565587,
+                        0.04575131413001573,
+                        0.9989334856017472
+                    ]
+                ],
+                "center": [
+                    -0.1434745433826344,
+                    -0.09529549673707837,
+                    1.2482892083963937
+                ]
+            }
+        },
+        {
+            "key": 28,
+            "value": {
+                "rotation": [
+                    [
+                        0.987385975138997,
+                        -0.05611425251069939,
+                        0.14805447228630906
+                    ],
+                    [
+                        0.054095797814775307,
+                        0.9983801349319018,
+                        0.017628126166454724
+                    ],
+                    [
+                        -0.14880383314147167,
+                        -0.009396639746364738,
+                        0.9888220883474853
+                    ]
+                ],
+                "center": [
+                    -0.0385805287671018,
+                    -0.09600412890123608,
+                    1.294508031274714
+                ]
+            }
+        },
+        {
+            "key": 29,
+            "value": {
+                "rotation": [
+                    [
+                        0.9642482538030757,
+                        -0.13739348216107559,
+                        0.2266017124767012
+                    ],
+                    [
+                        0.12516182650970215,
+                        0.9898332939027025,
+                        0.06756158277069475
+                    ],
+                    [
+                        -0.23358044058198575,
+                        -0.03678425398700408,
+                        0.9716414443796358
+                    ]
+                ],
+                "center": [
+                    0.15928204470756902,
+                    -0.008185390902276237,
+                    1.3118632851755603
+                ]
+            }
+        },
+        {
+            "key": 30,
+            "value": {
+                "rotation": [
+                    [
+                        0.9314513490342304,
+                        -0.22935107963089239,
+                        0.28248268381346205
+                    ],
+                    [
+                        0.21645072572873767,
+                        0.9732911581145517,
+                        0.07650754778149399
+                    ],
+                    [
+                        -0.2924849871597089,
+                        -0.010119476675148036,
+                        0.9562165698616637
+                    ]
+                ],
+                "center": [
+                    0.13359285719686699,
+                    -0.04444429100424281,
+                    1.3724854587798659
+                ]
+            }
+        },
+        {
+            "key": 31,
+            "value": {
+                "rotation": [
+                    [
+                        0.8895392206087024,
+                        -0.289240667004805,
+                        0.353637966781676
+                    ],
+                    [
+                        0.26572804166376137,
+                        0.9572239497426844,
+                        0.1145029166115743
+                    ],
+                    [
+                        -0.3716296313164555,
+                        -0.007883310829234025,
+                        0.9283476022147982
+                    ]
+                ],
+                "center": [
+                    0.3048987225475961,
+                    -0.014442822371269869,
+                    1.4411807230185086
+                ]
+            }
+        },
+        {
+            "key": 32,
+            "value": {
+                "rotation": [
+                    [
+                        0.8994037224411798,
+                        -0.27637865313939377,
+                        0.33865584912681476
+                    ],
+                    [
+                        0.2527138164122742,
+                        0.9609140754732923,
+                        0.11304807186171402
+                    ],
+                    [
+                        -0.35666324600846185,
+                        -0.016092844564046913,
+                        0.9340944006365443
+                    ]
+                ],
+                "center": [
+                    0.29070315213987249,
+                    -0.041078628561542599,
+                    1.4178510050187705
+                ]
+            }
+        },
+        {
+            "key": 33,
+            "value": {
+                "rotation": [
+                    [
+                        0.6461465039047424,
+                        0.42653107609927046,
+                        -0.632902786068506
+                    ],
+                    [
+                        -0.5717201507664717,
+                        0.8198568111379855,
+                        -0.031158922289073338
+                    ],
+                    [
+                        0.50559941129242,
+                        0.38197650497413057,
+                        0.7736040233533603
+                    ]
+                ],
+                "center": [
+                    -0.8957555964054594,
+                    -0.4283568191972351,
+                    1.2974616406086315
+                ]
+            }
+        },
+        {
+            "key": 34,
+            "value": {
+                "rotation": [
+                    [
+                        0.862183269728253,
+                        -0.31445072735486825,
+                        0.397191074253555
+                    ],
+                    [
+                        0.2709050850358272,
+                        0.9487016923844293,
+                        0.16302004100309595
+                    ],
+                    [
+                        -0.42807761481118108,
+                        -0.03295207023715222,
+                        0.9031410281703827
+                    ]
+                ],
+                "center": [
+                    0.3036124720984657,
+                    -0.09953747865732667,
+                    1.4961508458518112
+                ]
+            }
+        },
+        {
+            "key": 35,
+            "value": {
+                "rotation": [
+                    [
+                        0.7592863028242548,
+                        -0.41549494918695525,
+                        0.5008475392208727
+                    ],
+                    [
+                        0.3498405181014753,
+                        0.9095818892196602,
+                        0.22421507241504788
+                    ],
+                    [
+                        -0.5487220810555791,
+                        0.004973329239384814,
+                        0.8359900380736073
+                    ]
+                ],
+                "center": [
+                    0.48455156263860946,
+                    -0.13259936920848765,
+                    1.6574216796778954
+                ]
+            }
+        },
+        {
+            "key": 36,
+            "value": {
+                "rotation": [
+                    [
+                        0.7492419487773973,
+                        -0.42543284960589836,
+                        0.5075858475848721
+                    ],
+                    [
+                        0.35511326536161078,
+                        0.9049778827387175,
+                        0.23432797638771633
+                    ],
+                    [
+                        -0.5590447843925048,
+                        0.004682118105408288,
+                        0.8291242408792453
+                    ]
+                ],
+                "center": [
+                    0.4829073566087367,
+                    -0.15967654889930323,
+                    1.7190764450496224
+                ]
+            }
+        },
+        {
+            "key": 37,
+            "value": {
+                "rotation": [
+                    [
+                        0.5840707763661289,
+                        0.4286573651145103,
+                        -0.6892852758678025
+                    ],
+                    [
+                        -0.6079911600930084,
+                        0.7936492157620229,
+                        -0.021625715458311
+                    ],
+                    [
+                        0.5377806964217153,
+                        0.4317103029271033,
+                        0.7241672023108775
+                    ]
+                ],
+                "center": [
+                    -0.9666076285978489,
+                    -0.4604277245914087,
+                    1.3189468644200598
+                ]
+            }
+        },
+        {
+            "key": 38,
+            "value": {
+                "rotation": [
+                    [
+                        0.564439655585275,
+                        0.4545689872652075,
+                        -0.6890391215449672
+                    ],
+                    [
+                        -0.6517146274635162,
+                        0.7577019181068455,
+                        -0.033997759445259709
+                    ],
+                    [
+                        0.5066319369649596,
+                        0.46824655803742,
+                        0.7239262678845425
+                    ]
+                ],
+                "center": [
+                    -1.0649009599141924,
+                    -0.5520896744946482,
+                    1.4145712990204358
+                ]
+            }
+        },
+        {
+            "key": 39,
+            "value": {
+                "rotation": [
+                    [
+                        0.5223236311634003,
+                        0.4634333216503125,
+                        -0.715826501823199
+                    ],
+                    [
+                        -0.6876344812279024,
+                        0.7253445676555037,
+                        -0.03215708940628816
+                    ],
+                    [
+                        0.5043181977231376,
+                        0.5090233929367181,
+                        0.6975373401392055
+                    ]
+                ],
+                "center": [
+                    -1.1441216591481154,
+                    -0.6245298962101999,
+                    1.4984877498174674
+                ]
+            }
+        },
+        {
+            "key": 40,
+            "value": {
+                "rotation": [
+                    [
+                        0.4782359815378067,
+                        0.48168892547813449,
+                        -0.7343474143988599
+                    ],
+                    [
+                        -0.7366996291475629,
+                        0.6752144125289495,
+                        -0.036866699432264549
+                    ],
+                    [
+                        0.47808367717002639,
+                        0.5586244500421601,
+                        0.6777718800884854
+                    ]
+                ],
+                "center": [
+                    -1.1320172536315239,
+                    -0.7218896093599164,
+                    1.6453216764678
+                ]
+            }
+        },
+        {
+            "key": 41,
+            "value": {
+                "rotation": [
+                    [
+                        0.3590865349372011,
+                        0.48618130713330295,
+                        -0.7966709465149002
+                    ],
+                    [
+                        -0.7813849867764294,
+                        0.6234095682485519,
+                        0.028249117801322094
+                    ],
+                    [
+                        0.5103864838210287,
+                        0.6123628391814013,
+                        0.6037527559543722
+                    ]
+                ],
+                "center": [
+                    -1.1938466745053758,
+                    -0.7838800351005588,
+                    1.686940285209621
+                ]
+            }
+        }
+    ],
+    "structure": [],
+    "control_points": []
+}
